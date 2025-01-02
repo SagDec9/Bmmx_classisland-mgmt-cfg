@@ -7,14 +7,18 @@
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/SagDec9/bmmx_classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 1
+        "Version": 2
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/SagDec9/bmmx_classisland-mgmt-cfg/master/subjects.json",
-        "Version": 1
+        "Version": 2
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/SagDec9/bmmx_classisland-mgmt-cfg/master/policy.json",
-        "Version": 1
+        "Version": 2
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/policy.json",
+        "Version": 2
     }
 }
