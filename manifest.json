@@ -3,14 +3,14 @@
     "OrganizationName": "Bmmx",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/SagDec9/bmmx_classisland-mgmt-cfg/master/classplans.json",
-        "Version": 1.5
+        "Version": 1.6
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/SagDec9/bmmx_classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 1.5
+        "Version": 1.6
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/SagDec9/bmmx_classisland-mgmt-cfg/master/subjects.json",
-        "Version": 1.5
+        "Version": 1.6
     }
 }
